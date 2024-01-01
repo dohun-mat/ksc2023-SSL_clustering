@@ -1,6 +1,11 @@
 # [KSC2023]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상
 맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상
 
+# 포스터
+[[포스터]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상.pdf](https://github.com/dohun-mat/ksc2023-SSL_clustering/files/13805545/default.pdf)
+
+
+
 # 요약 
 :   이 연구에서는 자기 지도 학습(Self-supervised Learning) 방법 중 클러스터링을 사용한 Online Constrained K-Means (CoKe) 방식을 개선하여, 
 단일 뷰만으로 이미지 표현(representation) 학습을 효과적으로 수행하는 새로운 방법을 제안한다. 
