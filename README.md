@@ -4,6 +4,8 @@
 # 포스터
 [[포스터]맨하탄 거리와 체비셰프 거리를 활용한 클러스터링 기반 자기 지도 학습을 통한 이미지 표현 학습의 향상.pdf](https://github.com/dohun-mat/ksc2023-SSL_clustering/files/13805545/default.pdf)
 
+# 논문
+[논문.pdf](https://github.com/dohun-mat/ksc2023-SSL_clustering/files/13917671/default.pdf)
 
 
 # 요약 
